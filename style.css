@@ -1,0 +1,194 @@
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+label{
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.login-page{
+    width: 520px;
+    height: 550px;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.4); 
+    border-radius: 13px;
+}
+
+.signup-page{
+    width: 650px;
+    height: 585px;
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 1px 2px 10px rgba(0, 0, 0, 0.4); 
+    border-radius: 13px;
+}
+
+.login-heading{
+    margin-left: 30px;
+    padding-top: 30px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.input-account{
+    margin-top:10px;
+    margin-left: 30px;
+    
+}
+
+
+#username{
+    width: 445px;
+    height: 40px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background-color: #dfdfdf30;
+    border-radius: 5px;
+    border: 0.5px solid rgba(128, 128, 128, 0.173);
+    font-size: 16px;
+    padding-left: 10px;
+    
+}
+
+#password{
+    display: block;
+    width: 445px;
+    height: 40px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color: #dfdfdf30;
+    border: 0.5px solid rgba(128, 128, 128, 0.173);
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+#username-signup{
+    width: 570px;
+    height: 40px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background-color: #dfdfdf30;
+    border-radius: 5px;
+    border: 0.5px solid rgba(128, 128, 128, 0.173);
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+#password-signup{
+    width: 570px;
+    height: 40px;
+    display: block;
+    margin-bottom: 30px;
+    margin-top: 10px;
+    background-color: #dfdfdf30;
+    border-radius: 5px;
+    border: 0.5px solid rgba(128, 128, 128, 0.173);
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+#retype-password{
+    display: block;
+    width: 570px;
+    height: 40px;
+    margin-bottom: 50px;
+    margin-top: 10px;
+    background-color: #dfdfdf30;
+    border: 0.5px solid rgba(128, 128, 128, 0.173);
+    border-radius: 5px;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.button > button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 19px;
+    width: 455px;
+    height: 50px;
+    background-color: #4F75FF;
+    color: #fff;
+    margin-left: 33px;
+    border-radius: 30px;
+    border: none;
+}
+
+.button  > button:hover{
+    background-color: #2654fb;
+    border: 1.5px solid black;
+}
+
+.button-signup > button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: bold;
+    font-size: 19px;
+    width: 580px;
+    height: 50px;
+    background-color: #4F75FF;
+    color: #fff;
+    margin-left: 33px;
+    border-radius: 30px;
+    border: none;
+}
+
+.button-signup  > button:hover{
+    background-color: #2654fb;
+    border: 1.5px solid black;
+}
+
+.forgot-account{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}
+
+.back-account{
+    text-align: center;
+    margin-top: 30px;
+    font-size: 14px;
+}.button  > button:hover{
+    background-color: #2654fb;
+    border: 1.5px solid black;
+}
+
+.logo-icon{
+    width: auto;
+    height: 40px;
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#google{
+    width: 35px;
+}
+
+#google:hover{
+    width: 40px; 
+}
+
+#facebook{
+    width: 35px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#facebook:hover{
+    width: 40px;
+}
+
+#linkedin{
+    width: 36px;
+    margin-top:1px;
+}
+
+#linkedin:hover{
+    width: 41px;
+    border-radius: 50%;
+}
